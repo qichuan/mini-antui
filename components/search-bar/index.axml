@@ -25,5 +25,5 @@
   </view>
   <view
     class="am-search-cancel am-search-anim {{ focus || showCancelButton ? 'am-search-repos' : '' }}"
-    onTap="handleCancel">取消</view>
+    onTap="handleCancel">Cancel</view>
 </view>
