@@ -9,8 +9,8 @@ Component({
   },
   data: {
     loadContent: [
-      '加载更多...',
-      '-- 数据加载完了 --',
+      'Load More...',
+      '-- Data Loaded --',
     ],
   },
   didMount() {
